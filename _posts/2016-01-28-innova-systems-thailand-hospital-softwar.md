@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.innovasystems.co.th'
-  name: Innovasystems
-  favicon: 'http://www.innovasystems.co.th/favicon.ico'
-  domain: www.innovasystems.co.th
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - innova
   - smokybyte
@@ -18,17 +16,21 @@ keywords:
   - fill
   - copyright
 description: 'Based in Bangkok, Thailand and founded in 2004, Innova Systems is an informatics innovations IT services provider and systems integrator specializing in solutions for the healthcare (and other main industries) such as iMed HIS, Innova DPP / Formidable digital pen and paper solution, Winscribe digital dictation, iDoc for Healthcare document management systems, and Asperasoft ultra-fast file transfer.'
-inLanguage: en
+datePublished: '2016-01-28T04:28:29.302Z'
+dateModified: '2016-01-28T04:28:25.553Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.innovasystems.co.th/contactUs.php'
 title: 'Innova Systems อินโนว่า ซิสเต็มส์: Thailand hospital software and informatics innovations.'
-datePublished: '2016-01-28T04:26:27.288Z'
-dateModified: '2016-01-28T04:23:20.204Z'
 sourcePath: _posts/2016-01-28-innova-systems-thailand-hospital-softwar.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Innovasystems
+  domain: www.innovasystems.co.th
+  url: 'http://www.innovasystems.co.th'
+  favicon: 'http://www.innovasystems.co.th/favicon.ico'
+url: innova-systems-thailand-hospital-softwar/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
