@@ -16,7 +16,7 @@ keywords:
   - fill
   - copyright
 description: 'Based in Bangkok, Thailand and founded in 2004, Innova Systems is an informatics innovations IT services provider and systems integrator specializing in solutions for the healthcare (and other main industries) such as iMed HIS, Innova DPP / Formidable digital pen and paper solution, Winscribe digital dictation, iDoc for Healthcare document management systems, and Asperasoft ultra-fast file transfer.'
-datePublished: '2016-01-28T04:28:29.302Z'
+datePublished: '2016-01-28T04:28:29.362Z'
 dateModified: '2016-01-28T04:28:25.553Z'
 author: []
 related: []
