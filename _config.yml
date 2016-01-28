@@ -1,6 +1,6 @@
 name: InnovaSystems
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.76264
 typography_spectrum: 0.7512425174936652
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#ffffff'
     - '#d16424'
     - '#c42003'
-  brandStrength: 0
-  lightness: 0.75
-  saturation: 0.5
+  brandStrength: 0.25
+  lightness: 0.6875
+  saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
